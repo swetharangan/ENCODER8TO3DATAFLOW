@@ -64,8 +64,8 @@ assign c= (din[1] | din[3] | din[5] | din[7]);
 endmodule
 ~~~
 
-Developed by: VARSHA A 
-RegisterNumber: 212223220121
+Developed by: SWETHA R
+RegisterNumber: 212223040221
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
